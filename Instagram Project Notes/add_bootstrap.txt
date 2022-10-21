@@ -1,0 +1,12 @@
+gem 'bootstrap', '~> 4.0.0'
+
+bundle install
+
+assets:
+application.js
+//= require bootstrap-sprockets
+
+
+application.css renamed to aplication.scss
+
+@import "bootstrap";

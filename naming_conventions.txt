@@ -1,0 +1,14 @@
+
+
+Model class names :
+	singular
+	use CamelCase
+        plural database table name.
+
+
+
+
+
+
+Controllers : 
+   use Plural name
